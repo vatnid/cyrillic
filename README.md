@@ -1,8 +1,11 @@
 # Pan-Cyrillic keyboard for macOS
 This is a keyboard layout for the Cyrillic script, inspired by the macOS built-in ABC (Extended) keyboard. 
 
+## Base keyboards
+You can choose between a QWERTY Bulgarian base or a QWERTY Russian base. 
+
 ## Installation
-Copy both `Cyrillic.keylayout` and `Cyrillic.icns` (dark mode icon only) to `~/Library/Keyboard Layouts`. 
+Copy both the `.keylayout` and `.icns` (dark mode icon only) files of the keyboard layout you want to `~/Library/Keyboard Layouts`, then restart your computer. 
 
 ## Layout
 ### Bulgarian-based
@@ -16,3 +19,4 @@ To be added.
 
 #### With `⌥ option` key pressed
 ![layout_opt](layout_ru_opt.png)
+
