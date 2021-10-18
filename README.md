@@ -12,7 +12,7 @@ To be added.
 
 ### Russian-based
 #### Default layout
-![layout](layout.png)
+![layout](layout_ru.png)
 
 #### With `⌥ option` key pressed
-![layout_opt](layout_opt.png)
+![layout_opt](layout_ru_opt.png)
